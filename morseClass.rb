@@ -44,3 +44,6 @@ class Morse
     @morseArray.each {|i| print @@morse_to_human[i] + ' '}
   end
 end
+
+objMessage = Morse.new()
+objMessage.morseConverter("   .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
