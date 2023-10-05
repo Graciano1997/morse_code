@@ -24,7 +24,6 @@
 # 📖 [Decode a Morse code] <a name="about-project"></a>
 This repository involves the conversion of Morse code signals into corresponding letters or numbers.
 
->- Use [schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create all tables.
 
 <a name="readme-top"></a>
 
@@ -33,13 +32,10 @@ This repository involves the conversion of Morse code signals into corresponding
 
 ### Tech Stack <a name="tech-stack">https://www.ruby-lang.org/en/</a>
 
-
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-
+- Decode a morse code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,11 +49,8 @@ This repository involves the conversion of Morse code signals into corresponding
 ### Prerequisites
 
 In order to run this project you need:
-<center>
-<div>
-
-</div>
-</center>
+- Ruby
+- VScode Terminal
 
 
 ### Setup
@@ -79,6 +72,7 @@ Install this project with:
 Example command:
 
 ```sh
+bundle install
 
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -90,6 +84,8 @@ Example command:
 👤 **Author**
 
 - GitHub: [@Graciano1997](https://github.com/Graciano1997/)
+- Twitter: [@OGracianoHenrique](https://twitter.com/GracianoSoft)
+- LinkedIn: [@GracianoHenrique](www.linkedin.com/in/gracianohenrique)
 
 👤 **Author**
 
@@ -105,8 +101,7 @@ Example command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
-
- [Decode different codes]
+ - Decode different codes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
