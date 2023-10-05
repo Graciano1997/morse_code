@@ -1,5 +1,5 @@
 class Morse
-  const MORSE_TO_HUMAN = {
+  MORSE_TO_HUMAN = {
     '.-' => 'A',
     '-...' => 'B',
     '-.-.' => 'C',
