@@ -35,7 +35,7 @@ This repository involves the conversion of Morse code signals into corresponding
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- Decode a morse code
+- Decode a morse code to human language
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
